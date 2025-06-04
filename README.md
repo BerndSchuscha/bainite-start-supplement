@@ -4,6 +4,7 @@ This repository contains the supplementary material for the paper:
 
 **"Predictive modeling of the bainite start temperature using Bayesian inference"**  
 *Bernd Schuscha, Dominik Brandl, Lorenz Romaner, Ernst Kozeschnik, Reinhold Ebner, Aurélie Jacob, Peter Presoly, Daniel Scheiber*
+📄 DOI: [10.1016/j.actamat.2025.121131](https://doi.org/10.1016/j.actamat.2025.121131)
 
 For related datasets used in other work, see:
 
