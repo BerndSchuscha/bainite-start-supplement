@@ -37,8 +37,6 @@ Each row corresponds to a sample from the posterior distribution, enabling poste
 
 ### 📄 Supplementary: Supplemental_Material.pdf
 
-See `supplementary/supplementary.pdf` for:
-
 - Details on data curation
 - Model specification
 - Posterior analysis
