@@ -5,6 +5,11 @@ This repository contains the supplementary material for the paper:
 **"Predictive modeling of the bainite start temperature using Bayesian inference"**  
 *Bernd Schuscha, Dominik Brandl, Lorenz Romaner, Ernst Kozeschnik, Reinhold Ebner, Aurélie Jacob, Peter Presoly, Daniel Scheiber*
 
+For related datasets used in other work, see:
+
+**CFB Steel Datasets Repository**  
+📎 [https://github.com/BerndSchuscha/cfb-steel-datasets](https://github.com/BerndSchuscha/cfb-steel-datasets)
+
 
 
 ### Dataset: data_Bs.csv
